@@ -1,7 +1,7 @@
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+from scikit-learn.preprocessing import StandardScaler
+from scikit-learn.ensemble import RandomForestClassifier
+from scikit-learn.model_selection import train_test_split
 import pickle
 
 # Load the csv file
